@@ -40,17 +40,6 @@ Currently focused on:
 * Structural break detection and risk controls
 * Focus on robustness (walk-forward, regime awareness)
 
-### Poker Data Pipeline
-
-* Automated ingestion and cleaning of poker hands
-* Event-driven pipeline (watchdog-based)
-* Structured database for advanced analysis
-
-### Intelligent Notes System (SQL + AI + Power BI)
-
-* Obsidian → relational database sync
-* Semantic deduplication with embeddings
-* Automated dashboards and knowledge tracking
 
 ---
 
@@ -87,22 +76,4 @@ Currently focused on:
 
 ---
 
-## Current Focus
 
-* Scaling Pando into a **fully integrated cognitive system**
-* Improving **market-making + execution strategies**
-* Building **automated experimentation pipelines** (Mac Mini compute node)
-
----
-
-## Contact
-
-* LinkedIn: *(add here)*
-* Email: *(add here)*
-
----
-
-## Philosophy
-
-> Build systems, not scripts.
-> Optimize for long-term leverage, not short-term output.
