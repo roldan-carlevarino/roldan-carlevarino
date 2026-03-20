@@ -20,7 +20,7 @@ Currently focused on:
 * IMC Prosperity 4
 
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=roldan-carlevarino&theme=github-dark)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=roldan-carlevarino&theme=github-light)
 ---
 
 ## Achievements
