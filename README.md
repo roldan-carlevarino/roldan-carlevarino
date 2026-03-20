@@ -24,7 +24,7 @@ Currently focused on:
 
 ## Achievements
 
-* IMC Prosperity: **Top 1 Spain, Top 2% Global**
+* IMC Prosperity 3: **Top 1 Spain, Top 2% Global**
 * NASA Space Apps Challenge (data-focused track)
 
 ---
