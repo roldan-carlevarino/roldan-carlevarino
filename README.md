@@ -21,6 +21,9 @@ Currently focused on:
 * Modular Personal Data: Additional Modules
 * IMC Prosperity 4
 
+## 📊 GitHub Activity
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME)
 ---
 
 ## Achievements
