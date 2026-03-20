@@ -1,7 +1,7 @@
 # Rodrigo Roldán Carlevarino
 
 **Economics @ UC3M | Exchange @ Maastricht University**
-Building modular data systems, trading algorithms, and applied AI tools.
+Data systems, trading algorithms, and applied AI tools.
 
 ---
 
@@ -18,9 +18,7 @@ My work sits at the intersection of:
 
 Currently focused on:
 
-* Developing **Pando** — a modular personal data & AI system
-* Building **algorithmic trading strategies** (market-making, pairs trading)
-* Creating **data pipelines + dashboards** for real-world decision systems
+* IMC Prosperity 4
 
 ---
 
